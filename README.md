@@ -1,6 +1,6 @@
 # CQC2020
 
-CQC2020 is a theme-based Chinese classical poetry dataset. The feature of this dataset is that each sentence of the poem is associated with a theme word. The poems in the data set come from 23 eras (including ancient and modern eras of China, and transitional eras). The dataset contains poems written by 12587 different poets.
+CQC2020 is a theme-based Chinese classical poetry dataset. The feature of this dataset is that each sentence of the poem is associated with a theme word. The poems in the dataset are from 23 eras (including ancient and modern eras of China, and transitional eras). The dataset contains poems written by 12587 different poets.
 
 ## Statistics
 
