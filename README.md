@@ -14,6 +14,6 @@ The file is of JSON type, each line is a dictionary type, poem content and theme
 
 <pre><code>{"title": "咏梅送熊通政", "dynasty": "明", "author": "吴希贤", "poem": ["江南草色别来久", "梦绕梅花思不禁", "何似拂衣归去好", "小斋明月夜横琴"], "keywords": ["江南", "梅花", "归去", "明月"]}</code></pre>
 
-## cite
+## Cite
 
 If you use the CQC2020 dataset, please cite the source of the dataset.
