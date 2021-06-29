@@ -16,4 +16,19 @@ The file is of JSON type, each line is a dictionary type, poem content and theme
 
 ## Cite
 
-If you use the CQC2020 dataset, please cite the source of the dataset.
+If you use this dataset, please kindly cite the following paper:
+
+Generate classical Chinese poems with theme-style from images.[[pdf]](https://doi.org/10.1016/j.patrec.2021.05.016)
+
+bib format:
+
+<pre><code>
+@article{WU202175,
+title = {Generate classical Chinese poems with theme-style from images},
+journal = {Pattern Recognition Letters},
+volume = {149},
+pages = {75-82},
+year = {2021},
+author = {Chunlei Wu and Jiangnan Wang and Shaozu Yuan and Leiquan Wang and Weishan Zhang}
+}
+</code></pre>
