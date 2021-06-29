@@ -22,13 +22,11 @@ Generate classical Chinese poems with theme-style from images.[[pdf]](https://do
 
 bib format:
 
-<pre><code>
-@article{WU202175,
+<pre><code>@article{WU202175,
 title = {Generate classical Chinese poems with theme-style from images},
 journal = {Pattern Recognition Letters},
 volume = {149},
 pages = {75-82},
 year = {2021},
 author = {Chunlei Wu and Jiangnan Wang and Shaozu Yuan and Leiquan Wang and Weishan Zhang}
-}
-</code></pre>
+}</code></pre>
